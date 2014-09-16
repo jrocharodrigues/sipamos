@@ -1,7 +1,9 @@
 sipamos
 =======
 
-Simple python script that makes a call, plays a wave and disconnects using pjsip pythion lib
+Simple python script that makes a call, plays a wave and disconnects using pjsip pythion lib (http://www.pjsip.org/).
+
+Requires the installation of the pjsip lib and pjsua python module. For more info on how to do that go to : http://trac.pjsip.org/repos/wiki/Python_SIP/Build_Install
 
 Just edit sipamos.py to change your sip account settings and the destination number and run the script.
 
